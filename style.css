@@ -1,0 +1,28 @@
+#app {
+    width: 100%;
+    height: 800px;
+    background-color: aliceblue;
+}
+
+.container
+{
+    text-align: center;
+}
+#myCarousel
+{
+    background-color: mediumseagreen;
+}
+.carousel-inner p
+{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color:aqua;
+    font-size: 20px;
+}
+#myCarousel img
+{
+    margin-top: 35px;
+    height: 300px;
+}
+
+/*Start your code from here */
